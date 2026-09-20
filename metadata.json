@@ -1,0 +1,6 @@
+{
+  "name": "Esports Tournament Hub - User Panel",
+  "description": "Complete user panel frontend for modern gaming and esports tournament platform with real-time WebSocket updates, wallet management, tournament brackets, and team coordination.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
